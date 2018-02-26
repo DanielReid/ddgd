@@ -1,0 +1,2 @@
+# ddgd
+Digital game digests
