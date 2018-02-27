@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: Daan Reid
-
-
+name: Daan's Digital Game Digest
+description: A place for me to post my thoughts on games, mostly digital ones.
+theme: jekyll-theme-midnight
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
